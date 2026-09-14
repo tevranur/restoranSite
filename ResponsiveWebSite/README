@@ -1,0 +1,82 @@
+# 🍔 Restaurant Web Sitesi
+
+HTML, CSS ve JavaScript kullanılarak geliştirilmiş, modern ve responsive bir restoran web sitesi projesidir.
+
+## 📌 Proje Hakkında
+
+Bu projede kullanıcıların farklı cihazlarda rahatlıkla kullanabileceği bir restoran web sitesi tasarlanmıştır.
+
+Projede frontend geliştirme sürecinde **HTML, CSS ve JavaScript** kullanılmıştır. Kullanıcı etkileşimini artırmak amacıyla arama alanı, alışveriş sepeti ve mobil navigasyon menüsü gibi etkileşimli bölümler JavaScript ile geliştirilmiştir.
+
+## 🚀 Özellikler
+
+* 📱 Responsive tasarım
+* 🔍 Açılıp kapanabilen arama alanı
+* 🛒 Açılıp kapanabilen alışveriş sepeti
+* ☰ Mobil menü
+* 🍕 Menü ürünleri bölümü
+* 🍔 Ürünler bölümü
+* ⭐ Müşteri yorumları
+* 📍 İletişim ve harita bölümü
+* 📝 Blog bölümü
+* 📱 Mobil cihazlara uyumlu tasarım
+
+## 🛠️ Kullanılan Teknolojiler
+
+* HTML5
+* CSS
+* JavaScript
+
+
+## 💻 JavaScript ile Yapılanlar
+
+Projede JavaScript kullanılarak:
+
+* Arama butonunun açılıp kapanması
+* Alışveriş sepetinin açılıp kapanması
+* Mobil navigasyon menüsünün açılıp kapanması
+* Kullanıcı ilgili alanın dışına tıkladığında menülerin kapanması
+
+gibi kullanıcı etkileşimleri gerçekleştirilmiştir.
+
+`classList.toggle()` ve `classList.remove()` kullanılarak CSS'teki `active` sınıfı üzerinden elementlerin görünürlük durumları kontrol edilmiştir.
+
+## 🎯 Projenin Amacı
+
+Bu projenin amacı HTML, CSS ve JavaScript kullanarak modern bir frontend projesi geliştirmek ve JavaScript ile kullanıcı etkileşimlerini uygulamalı olarak öğrenmektir.
+
+## 📂 Proje Yapısı
+
+```text
+restaurant-website/
+│
+├── images/
+├── styles/
+│   └── style.css
+├── js/
+│   └── script.js
+├── index.html
+└── README.md
+```
+
+## 📸 Proje
+
+Proje; restoran ana sayfası, menü, ürünler, hakkında, müşteri yorumları, iletişim ve blog bölümlerinden oluşmaktadır.
+
+## 📚 Öğrenilen Konular
+
+Bu proje sayesinde:
+
+* HTML ile sayfa yapısı oluşturma
+* CSS ile responsive tasarım
+* CSS Grid ve Flexbox kullanımı
+* JavaScript DOM işlemleri
+* Event Listener kullanımı
+* `classList.toggle()`
+* `classList.remove()`
+* `composedPath()` ile tıklanan elementi kontrol etme
+
+konularında pratik yapılmıştır.
+
+
+Frontend geliştirme alanında kendimi geliştirmek amacıyla hazırladığım projelerden biridir.
